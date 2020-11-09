@@ -19,10 +19,9 @@ Inspiration : That section will be dedicated to African success stories. In orde
 
 • Individuals: Every single person needing a service or having a skill to sell in Europe first and next in Africa.
 
-
 ## Feature List (Product requirements)
 
-All Users:
+For All Users:
 
 1. View & Navigate the website
 2. Create an account
@@ -40,8 +39,8 @@ Admin:
 3. Produce and share blog post
 4. Service Request through a form: Every Service Request requires approval to show on the plateforme
 5. Rating and Commenting
-6. Post Profile Creation in Back End or Generate automacally base on template (to be discussed)
-7. Yearly and monthly fees
+6. Post Profile Creation in Back End or Generate automatically base on template (to be discussed)
+7. Yearly and monthly fees (don't understand this part)
 8. On demand payment fees for services
 9. Search Bar and filter for search
 10. Blogs posting
